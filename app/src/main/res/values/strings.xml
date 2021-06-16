@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cab</string>
+    <string name="driver_button">"I'm a Driver"</string>
+    <string name="rider_button">"I'm a Rider"</string>
+    <string name="title_activity_drivers_map">Map</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="rider_login">Rider Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="ask">Don\'t have an account?</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="call_a_cab">Call a Cab</string>
+    <string name="close_button">Close</string>
+    <string name="save_button">Save</string>
+    <string name="change_picture">Change Picture</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="your_car_number">Your Car Number</string>
+</resources>
